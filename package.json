@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/henryhuang/wechatg.git"
+    "url": "git+ssh://git@github.com/henryhuang/wechatg.git"
   },
   "author": "Henry Huang",
   "license": "MIT",
